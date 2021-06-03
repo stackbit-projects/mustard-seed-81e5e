@@ -1,0 +1,17 @@
+title: Spectral
+description: |
+  Another fine responsive  
+  site template freebie  
+  crafted by [HTML5 UP](http://html5up.net)
+owner: Your Name
+first_published: 2016
+email: your-email@domain.com
+baseurl: ''
+url: ''
+social:
+  twitter: 'https://twitter.com/<username>'
+  github: 'https://github.com/<username>'
+  linkedin-square: 'https://linkedin.com/in/<username>'
+  facebook-official: 'https://facebook.com/<username>'
+  google-plus-square: 'https://plus.google.com/u/0/+<username>'
+markdown: kramdown
